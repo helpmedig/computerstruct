@@ -1,7 +1,68 @@
+<!DOCTYPE html>
 <html>
-<head> 
-<Title>Logic</title>
-</head>
-<body>
-<h1>By Jamal Sowers, Rushaid Mithani, and Kyle Smith</h1>
-</html>
+  <head>
+    <title>Logic</title>
+  </head>
+  <body>
+    <h1>Logic</h1>
+    <p style="color:blue">
+    <img src="https://vignette.wikia.nocookie.net/ultra/images/e/eb/Logic_Meme.jpg/revision/latest?cb=20170326044555">
+  <br><b>The aim of Logic is to dictate true and false values for a pair of conditions.</b></br>
+  <br>These conditions are usually denoted by the symbols p and q.</br>
+  Logical operators are then applied to each truth value for p and q.
+</p>
+<h1>Negation</h1>
+<p style="color:green">
+  Negation of a condition is represented by "¬"
+  <br>Negation flips the truth value of a condition</br>
+  <img src="https://cdn-images-1.medium.com/max/1600/1*8E9UI2hsBWhIz5_SRvR5uQ.png">
+  <img src="https://pics.me.me/Facebook-306d66.png">
+</p>
+<h1> The "And" Operator</h1>
+<p style="color:red">
+The "and" operator is represented by "∧" symbol.
+  <br>In order for the and operator to give an output of true, both p and q must be true.</br>
+  If even one of the conditions are false, then the output must be false.
+  <br></br>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*wrRCwDAoUqHHALfHnu0Qmw.png">
+<br></br>
+Think back to our unit on the union and intersection
+<br>The and operator would be represented by the intersection, in other words, the elements that are in both sets.</br>
+<br></br>
+</p>
+<p>
+  In the picture below, the "and" operator covers the "my name" section
+  <br></br>
+<img src="https://static.fjcdn.com/pictures/My+life+as+a+student_e01b90_3192656.jpg">
+</p>
+<h1>The "Or" Operator</h1>
+<p>
+  the "Or" operator is represented by the "V sign".
+In order for the "Or" operator to be true,<b> at least</b> one of the conditions p or q must be true.
+<br>The "Or" operator only gives a false output when <b>both</b> conditions p and q are false.</br>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*MCO7lGwuIJxbmvRIXjrJoQ.png">
+  <br>In terms of Venn Diagrams, The "Or" symbol is represented by the Union.</br>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*A3Wop6015exCN0X2-D8H2Q.png">
+</p>
+<h1>The "Xor" Operator</h1>
+<p>
+The "Xor" Operator plays the role of exclusive or.
+<br> This means that in order to have a true output exactly one out of the two conditions must be true</br>
+<br>Xor is represented by "⊻" sign.</br>
+<img src="https://cdn-images-1.medium.com/max/1200/1*rfMC72B6tH9rdU91LSZwqg.png">
+</p>
+<h1>Conditionals</h1>
+<p>
+  A conditional statement is the traditional "if-then" statement. The only way that this statement is false is if the initial condition is true but the subsequent condition is false.
+  <br></br>
+  <br>the symbol for a conditional is "→"</br>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*RI1XC5JjtGjkrUfWTtOn2A.png" width="700" height="550">
+  <img src="https://www.yourtango.com/sites/default/files/styles/body_image_default/public/image_list/motivational2.jpg?itok=UrGhutpK">
+</p>
+<h1>Bi-Conditionals</h1>
+<p>
+  A bi-conditional statement will yeild a true output if both conditions have the same input.
+  <br>In other words, if both p and q are true or if both p and q are false then the output is true.</br>
+  <br> the bi-conditional is marked with the "←→" symbol.</br>
+  <img src="https://cdn-images-1.medium.com/max/1600/1*PytIuqVtWbvpD7GuoUx66g.png">
+</p>
